@@ -1,11 +1,11 @@
-package cs3500.set.controller;
+package cs3500.mvc.controller;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-import cs3500.set.model.hw02.Coord;
-import cs3500.set.model.hw02.SetGameModel;
-import cs3500.set.view.SetGameView;
+import cs3500.mvc.model.Coord;
+import cs3500.mvc.model.SetGameModel;
+import cs3500.mvc.view.SetGameView;
 
 /**
  * Represents the Controller for a set game.

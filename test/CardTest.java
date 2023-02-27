@@ -1,7 +1,7 @@
 import org.junit.Test;
 
-import cs3500.set.model.hw02.Card;
-import cs3500.set.model.hw02.SetThreeGameModel;
+import cs3500.mvc.model.Card;
+import cs3500.mvc.model.SetThreeGameModel;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

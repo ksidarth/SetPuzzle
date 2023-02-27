@@ -1,10 +1,7 @@
-package cs3500.set.model.hw03;
+package cs3500.mvc.model;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import cs3500.set.model.hw02.Card;
-import cs3500.set.model.hw02.Coord;
 
 /**
  * Represents a General Set Game.

@@ -1,4 +1,4 @@
-package cs3500.set.controller;
+package cs3500.mvc.controller;
 
 /**
  * Interface for Controller Implementation of SetGame.

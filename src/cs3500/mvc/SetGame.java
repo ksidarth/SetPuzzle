@@ -1,15 +1,15 @@
-package cs3500.set;
+package cs3500.mvc;
 
 import java.io.InputStreamReader;
 
-import cs3500.set.controller.SetGameController;
-import cs3500.set.controller.SetGameControllerImpl;
-import cs3500.set.model.hw02.Card;
-import cs3500.set.model.hw02.SetGameModel;
-import cs3500.set.model.hw02.SetThreeGameModel;
-import cs3500.set.model.hw03.GeneralSetGameModel;
-import cs3500.set.view.SetGameTextView;
-import cs3500.set.view.SetGameView;
+import cs3500.mvc.controller.SetGameController;
+import cs3500.mvc.controller.SetGameControllerImpl;
+import cs3500.mvc.model.Card;
+import cs3500.mvc.model.SetGameModel;
+import cs3500.mvc.model.SetThreeGameModel;
+import cs3500.mvc.model.GeneralSetGameModel;
+import cs3500.mvc.view.SetGameTextView;
+import cs3500.mvc.view.SetGameView;
 
 /**
  * Runs the SetGame.

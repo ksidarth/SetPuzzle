@@ -1,4 +1,4 @@
-package cs3500.set.model.hw02;
+package cs3500.mvc.model;
 
 import java.util.Arrays;
 

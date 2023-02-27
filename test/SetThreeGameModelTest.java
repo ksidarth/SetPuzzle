@@ -6,9 +6,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import cs3500.set.model.hw02.Card;
-import cs3500.set.model.hw02.Coord;
-import cs3500.set.model.hw02.SetThreeGameModel;
+import cs3500.mvc.model.Card;
+import cs3500.mvc.model.Coord;
+import cs3500.mvc.model.SetThreeGameModel;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

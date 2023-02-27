@@ -1,13 +1,9 @@
-package cs3500.set.model.hw03;
+package cs3500.mvc.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
-import cs3500.set.model.hw02.Card;
-import cs3500.set.model.hw02.Coord;
-import cs3500.set.model.hw02.SetGameModel;
 
 /**
  * Abstract representation of a SetGame.

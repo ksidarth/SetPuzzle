@@ -3,11 +3,11 @@ import org.junit.Test;
 import java.io.IOException;
 import java.io.StringReader;
 
-import cs3500.set.controller.SetGameController;
-import cs3500.set.controller.SetGameControllerImpl;
-import cs3500.set.model.hw02.SetThreeGameModel;
-import cs3500.set.view.SetGameTextView;
-import cs3500.set.view.SetGameView;
+import cs3500.mvc.controller.SetGameController;
+import cs3500.mvc.controller.SetGameControllerImpl;
+import cs3500.mvc.model.SetThreeGameModel;
+import cs3500.mvc.view.SetGameTextView;
+import cs3500.mvc.view.SetGameView;
 
 import static org.junit.Assert.assertEquals;
 

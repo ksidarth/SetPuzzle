@@ -1,8 +1,8 @@
-package cs3500.set.view;
+package cs3500.mvc.view;
 
 import java.io.IOException;
 
-import cs3500.set.model.hw02.SetGameModelState;
+import cs3500.mvc.model.SetGameModelState;
 
 /**
  * View class for SetGameView.

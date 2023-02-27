@@ -6,11 +6,11 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import cs3500.set.model.hw02.Card;
-import cs3500.set.model.hw02.Coord;
-import cs3500.set.model.hw03.ASetGameModel;
-import cs3500.set.model.hw03.GeneralSetGameModel;
-import cs3500.set.view.SetGameTextView;
+import cs3500.mvc.model.Card;
+import cs3500.mvc.model.Coord;
+import cs3500.mvc.model.ASetGameModel;
+import cs3500.mvc.model.GeneralSetGameModel;
+import cs3500.mvc.view.SetGameTextView;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
