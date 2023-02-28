@@ -1,4 +1,4 @@
-package cs3500.mvc.model;
+package MVC.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;

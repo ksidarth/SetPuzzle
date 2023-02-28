@@ -1,4 +1,4 @@
-package cs3500.mvc.view;
+package MVC.view;
 
 import java.io.IOException;
 
