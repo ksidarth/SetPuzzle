@@ -1,7 +1,7 @@
 import org.junit.Test;
 
-import cs3500.mvc.model.Card;
-import cs3500.mvc.model.SetThreeGameModel;
+import MVC.model.Card;
+import MVC.model.SetThreeGameModel;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

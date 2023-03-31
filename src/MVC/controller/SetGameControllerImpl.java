@@ -54,7 +54,7 @@ public class SetGameControllerImpl implements SetGameController {
         canRun = true;
       } catch (IllegalArgumentException e) {
         this.renderMessage("Invalid height/width. Try again. "
-              + "Height and width must be correct values.\n");
+              + "Height and width must cover a max area of 27 and be positive.\n");
       }
     }
     int[] moveSet = new int[6];
